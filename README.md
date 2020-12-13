@@ -13,7 +13,7 @@ The user now able to look up specific data in the UFO table by using the provide
 
 The image below shows the webpage and multiple criteria that the user can filter:
 
-![UFOs/Static/images/webpage.png](UFOs/Static/images/webpage.png)
+![webpage.png](pimchanyachitsanga/UFOs/Static/images/webpage.png)
 
 
 
