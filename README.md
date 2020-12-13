@@ -7,7 +7,7 @@ JavaScript, HTML, CSS
 
 The purpose of the analysis is to create a webpage and dynamic table to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. We have added a table filters for the city, state, country, and shape.
 
-# Results 
+## Results 
 
 The user now able to look up specific data in the UFO table by using the provided filters (city, state, country, and shape). The user can input desired criteria in the search boxes then press enter to return the search results.
 
