@@ -15,15 +15,22 @@ The image below shows the webpage and multiple criteria that the user can filter
 
 ![webpage.png](Static/images/webpage.png)
 
+## Summary
 
+### Drawback
 
+One drawback of the webpage is that the search fields are case sensitive. For example, if a user searches for the UFO data by state by typing "CA", no results will be returned. However, if the user searches for lowercase "ca", various of results will be present.
 
-Summary:
+The first image below shows the search results for UFO sightings in California when a search for "ca" is input:
 
-The summary addresses one drawback of this webpage (2 pt)
+![ca.png](Static/images/ca.png)
 
-The second image below shows the search results for UFO sightings in New York when a search for "ny" is performed:
+The second image below shows the search results for UFO sightings in California when a search for "CA" is input:
 
-![image2](image_2.PNG)
+![ca_capitalized.png](Static/images/ca_capitalized.png)
 
-The summary addresses two additional recommendations for further development (4 pt)
+### Further Recommendation
+
+1. Adding code to return the result even if the exact search does not exist. It would be beneficial to be able to add spelling suggestion and correction to reduce confusion in the case of case and character sensitivity.
+
+2. Add discalimer and limitation in the data table in order to ensure accuracy of the research. For example, we could add that the data is available for a certain year range.
